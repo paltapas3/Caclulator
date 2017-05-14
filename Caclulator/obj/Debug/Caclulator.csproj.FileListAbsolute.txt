@@ -1,0 +1,4 @@
+C:\Users\Tapas\Documents\GitHub\Caclulator\Caclulator\bin\Debug\Caclulator.dll
+C:\Users\Tapas\Documents\GitHub\Caclulator\Caclulator\bin\Debug\Caclulator.pdb
+C:\Users\Tapas\Documents\GitHub\Caclulator\Caclulator\obj\Debug\Caclulator.dll
+C:\Users\Tapas\Documents\GitHub\Caclulator\Caclulator\obj\Debug\Caclulator.pdb

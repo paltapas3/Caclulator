@@ -1,0 +1,8 @@
+C:\Users\Tapas\Documents\GitHub\Caclulator\CaclulatorTests\bin\Debug\CaclulatorTests.dll
+C:\Users\Tapas\Documents\GitHub\Caclulator\CaclulatorTests\bin\Debug\CaclulatorTests.pdb
+C:\Users\Tapas\Documents\GitHub\Caclulator\CaclulatorTests\bin\Debug\Caclulator.dll
+C:\Users\Tapas\Documents\GitHub\Caclulator\CaclulatorTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tapas\Documents\GitHub\Caclulator\CaclulatorTests\bin\Debug\Caclulator.pdb
+C:\Users\Tapas\Documents\GitHub\Caclulator\CaclulatorTests\obj\Debug\CaclulatorTests.csprojResolveAssemblyReference.cache
+C:\Users\Tapas\Documents\GitHub\Caclulator\CaclulatorTests\obj\Debug\CaclulatorTests.dll
+C:\Users\Tapas\Documents\GitHub\Caclulator\CaclulatorTests\obj\Debug\CaclulatorTests.pdb
